@@ -2,7 +2,7 @@ I take no responsibility for the contents. Use for educational purposes only. Al
 
 Things that work with this on the pocket 2 256gb SSD celeron 3965Y:
   - disabling ME
-  - disabling TDP throttling, current throttling
+  - disabling TDP throttling, current throttling, VR config (IMON slopes and offsets)
   - altering thermal controls
   - acpi config stuff
   - one user preset to store your things beyond a bios reset
